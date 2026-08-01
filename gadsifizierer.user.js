@@ -2,7 +2,7 @@
 // @name        gadsifizierer
 // @version     1.0
 //
-// @match       http*://*/*
+// @match       *://*/*
 // @grant       none
 //
 // @author      ncfhrb
