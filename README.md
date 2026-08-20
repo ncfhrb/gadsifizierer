@@ -17,4 +17,4 @@ Hopefully the script is simple enough to audit it yourself and not cause any com
 
 Use any form of manager to run user scripts on web sites and install this script.
 
-Might add more convenient ways if installing this script at some later point.
+Might add more convenient ways of installing this script at some later point.
